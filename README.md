@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/adryanps11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adryanps11&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanps11&layout=compact&langs_count=10&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adryanps11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryanps11&layout=compact&langs_count=10&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
